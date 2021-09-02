@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "가랑비"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "개발과 투자"
   location         : "Somewhere"
   email            :
   links:
